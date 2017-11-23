@@ -2,3 +2,4 @@ src/node_modules
 src/config.js
 src/database.sqlite3
 .vscode
+src/servers
