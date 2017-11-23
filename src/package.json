@@ -1,0 +1,32 @@
+{
+  "name": "modbot",
+  "version": "1.0.0",
+  "description": "Moderation bot for Discord, using Discord.js and Commando Framework",
+  "main": "modbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AussieGamer1994/ModBot.git"
+  },
+  "keywords": [
+		"discord",
+		"discord.js",
+    "commando",
+    "discord.js-commando",
+    "moderation"
+	],
+  "author": "AussieGamer1994",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AussieGamer1994/ModBot/issues"
+  },
+  "homepage": "https://github.com/AussieGamer1994/ModBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0",
+    "sqlite": "^2.8.0",
+    "sqlite3": "^3.1.13"
+  }
+}
